@@ -1,0 +1,19 @@
+subject releted to  e-medicoz:-
+
+1. If we want to rate any course for example radio path integrated series,then first we will have to provide any
+ feedback or text into text field,which is given below rate column.It means we can not rate any course without giving 
+anything into the text field.
+
+2.If we are visiting profile of any instructer,there should be an option available for user to view the complete list of 
+students and courses which are releted to that particular instructer.
+
+3.There should be an option available for user so that he can check that one instructer is releted with how many courses. 
+
+4.In Curriculum field,user is not able to see all modules in any course ,other modules are lock.
+
+5.If we want to unlock any other modules,then first we will have to perfome some of the required basic activities on app
+ for example- watch that video,solve the basic puzzle releted to that particular course.
+
+6.In FAQ field, if we are clicking several times in any series of question then it is not opening, which is not desirable.
+
+7.User can select any one of the course from all course and that selected course will be added to my courses field in app.

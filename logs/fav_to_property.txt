@@ -1,0 +1,963 @@
+Time: 2018-10-27, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"658","fk_property_id":"54"}
+Time: 2018-10-27, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"658","fk_property_id":"54"}
+Time: 2018-11-08, 02
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"1099","fk_property_id":"63"}
+Time: 2018-11-08, 02
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"1099","fk_property_id":"63"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"88","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"110","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"143","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"144","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"169","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"175","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"0"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"110","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"169","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"143","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"144","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"1"}
+Time: 2018-11-17, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1126","fk_property_id":"80","action":"1"}
+Time: 2018-11-20, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"57"}
+Time: 2018-11-20, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"83"}
+Time: 2018-11-20, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"53"}
+Time: 2018-11-20, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"65"}
+Time: 2018-11-20, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"108"}
+Time: 2018-11-23, 00
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1136","fk_property_id":"172","action":"0"}
+Time: 2018-11-24, 08
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request null
+Time: 2018-11-24, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1144","fk_property_id":"88","action":"0"}
+Time: 2018-11-24, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1144","fk_property_id":"109","action":"0"}
+Time: 2018-11-24, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1144","fk_property_id":"80","action":"0"}
+Time: 2018-11-24, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1144","fk_property_id":"109","action":"0"}
+Time: 2018-11-24, 22
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1147","fk_property_id":"144","action":"0"}
+Time: 2018-11-26, 22
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1146","fk_property_id":"133","action":"0"}
+Time: 2018-11-29, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"39","action":"0"}
+Time: 2018-11-29, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"106","action":"0"}
+Time: 2018-11-29, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"214"}
+Time: 2018-11-29, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"47","fk_property_id":"214"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"53","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"53","action":"1"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"53","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"57","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"65","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"82","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"83","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"91","action":"0"}
+Time: 2018-11-29, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"96","action":"0"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"0"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"0"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"1"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"1"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"0"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"1"}
+Time: 2018-12-03, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"0"}
+Time: 2018-12-04, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"1"}
+Time: 2018-12-04, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"217","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"47","fk_property_id":"214","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"1155","fk_property_id":"54"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"1155","fk_property_id":"54"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"1155","fk_property_id":"53"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"219","action":"0"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"47","fk_property_id":"219"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"131","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"91","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"101","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"1"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"158","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"181","action":"0"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"56","fk_property_id":"108","action":"0"}
+Time: 2018-12-05, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"0"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10033","fk_property_id":"65"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10033","fk_property_id":"57"}
+Time: 2018-12-19, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-19, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"1"}
+Time: 2018-12-20, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-20, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-20, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-20, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"223","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"223","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"82","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"83","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"54","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"65","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"106","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"39","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"96","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"91","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"57","action":"1"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10048","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 12
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10050","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"39","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"223","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"1155","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"224","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"226","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"226","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"226","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"226","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10043","fk_property_id":"226","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"1"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"222","action":"0"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"1"}
+Time: 2018-12-21, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10051","fk_property_id":"225","action":"0"}
+Time: 2018-12-24, 20
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10060","fk_property_id":"100"}
+Time: 2018-12-27, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10085","fk_property_id":"131","action":"0"}
+Time: 2018-12-27, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10085","fk_property_id":"131","action":"0"}
+Time: 2018-12-28, 03
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10090","fk_property_id":"128"}
+Time: 2018-12-31, 09
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10103","fk_property_id":"109","action":"0"}
+Time: 2018-12-31, 09
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10103","fk_property_id":"80","action":"0"}
+Time: 2019-01-16, 21
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10174","fk_property_id":"88","action":"0"}
+Time: 2019-01-16, 21
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10174","fk_property_id":"227","action":"0"}
+Time: 2019-01-17, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10175","fk_property_id":"82","action":"0"}
+Time: 2019-01-17, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10175","fk_property_id":"82","action":"1"}
+Time: 2019-01-17, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10175","fk_property_id":"88","action":"0"}
+Time: 2019-01-18, 02
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10180","fk_property_id":"227"}
+Time: 2019-01-18, 02
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"10180","fk_property_id":"227"}
+Time: 2019-01-30, 09
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10207","fk_property_id":"157","action":"0"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10142","fk_property_id":"161","action":"0"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10142","fk_property_id":"161","action":"0"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10142","fk_property_id":"135","action":"0"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10142","fk_property_id":"135","action":"0"}
+Time: 2019-02-12, 17
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10056","fk_property_id":"160"}
+Time: 2019-03-13, 23
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10230","fk_property_id":"237","action":"0"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"125"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"123"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"128"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"130"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"133"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"1","fk_user_id":"10361","fk_property_id":"133"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"148"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"150"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"156"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"158"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"162"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"194"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"189"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"188"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"184"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"179"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"170"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"164"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"163"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"195"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"196"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"201"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"204"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"231"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"237"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"238"}
+Time: 2019-04-13, 11
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10361","fk_property_id":"160"}
+Time: 2019-04-15, 15
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10326","fk_property_id":"140"}
+Time: 2019-04-16, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"231","fk_property_id":"168"}
+Time: 2019-04-16, 13
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"231","fk_property_id":"228"}
+Time: 2019-04-19, 14
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10415","fk_property_id":"100","action":"0"}
+Time: 2019-04-19, 16
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10415","fk_property_id":"89","action":"0"}
+Time: 2019-04-23, 01
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10470","fk_property_id":"236","action":"0"}
+Time: 2019-04-23, 01
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10470","fk_property_id":"235","action":"0"}
+Time: 2019-04-23, 01
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10470","fk_property_id":"109","action":"0"}
+Time: 2019-04-24, 04
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10505","fk_property_id":"100","action":"0"}
+Time: 2019-04-25, 14
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10488","fk_property_id":"91"}
+Time: 2019-04-26, 22
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"10536","fk_property_id":"237"}
+Time: 2019-04-27, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10539","fk_property_id":"246","action":"0"}
+Time: 2019-04-27, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10539","fk_property_id":"169","action":"0"}
+Time: 2019-05-08, 00
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"285","fk_property_id":"158"}
+Time: 2019-05-08, 18
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10645","fk_property_id":"202","action":"0"}
+Time: 2019-05-08, 20
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10423","fk_property_id":"243","action":"0"}
+Time: 2019-05-09, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"action":"0","fk_user_id":"285","fk_property_id":"91"}
+Time: 2019-05-12, 06
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10669","fk_property_id":"80","action":"0"}
+Time: 2019-05-17, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10709","fk_property_id":"80","action":"0"}
+Time: 2019-05-17, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10709","fk_property_id":"109","action":"0"}
+Time: 2019-05-17, 05
+url: https://muscathome.com/index.php/Properties/fav_to_property
+Request {"fk_user_id":"10709","fk_property_id":"236","action":"0"}

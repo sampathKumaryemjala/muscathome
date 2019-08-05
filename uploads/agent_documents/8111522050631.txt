@@ -1,0 +1,30 @@
+  muscat home-
+
+- in any services like household all the releted fields are not properly aligned on the left side.(Not Done)
+
+- in agent profile,in jobs list field , spelling of pending is not correct.(not done)
+
+- image is not available for all field for ex. there is no image of elctrician require.(not done)
+
+- there should be a proper space between mobile name and field in the profile of agent.
+
+- in add property field, the spelling of my request is not correct.(not done)
+
+- "Usually we will inform you if the service provider will is late" this particular sentence is  grammatically wrong in FAQ field number2.(Not done)
+
+- spelling of satisfied is not correct in FAQ number3.(Not done)
+
+- spelling of begin is not correct in FAQ number8.(Not done)
+
+- spelling of trusted is not correct in FAQ number10.(Not done)
+ 
+- in agent side, all the particular fields are not properly aligned.there should be some space between them.(Not done)
+
+- in profile description of any property there is large gap between address field and address of that particular field.
+
+- if we are adding any property to a favorite list, then that selected property is not showing in favorite list.
+
+- in outdoor services spelling of gardner is not correct.
+
+- A database error is showing when a user want to send a request to any maid for a particular service request.(Not done)
+

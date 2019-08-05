@@ -1,0 +1,50 @@
+  
+ /*css for emi calulator*/
+    .value-button {
+        display: inline-block;
+        border: 1px solid #009bd6;
+        margin: 0px;
+        width: 15%;
+        height: 42px;
+        text-align: center;
+        /* vertical-align: middle; */
+        padding: 4px 0;
+        /* background: #009bd6; */
+        color: #009bd6;
+        border-radius: 50% !important;
+        font-size: 24px;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    .value-button:hover {
+        cursor: pointer;
+    }
+    input#number {
+        text-align: center;
+        border: none;
+        border: 1px solid #ddd;
+        /* border-bottom: 1px solid #ddd; */
+        margin: 0px 28px;
+        width: 48%;
+        height: 40px;
+        margin-bottom: 20px;
+        /* margin-left: 5px; */
+        border-radius: 5px;
+        font-weight: 800;
+    }
+
+    input[type=number]::-webkit-inner-spin-button,
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;}
+    #emi_value{padding-top:20px;
+    font-size: 32px;
+    font-weight: 200;
+    display:none;
+   }
+ /*end of emi calulator*/  

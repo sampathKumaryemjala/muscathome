@@ -1,0 +1,2280 @@
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"145"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-17, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"145"}
+Time: 2018-10-17, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"145"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-18, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-21, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-10-21, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-10-21, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-10-21, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1063"}
+Time: 2018-10-23, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-23, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-24, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"individual":"1","fk_job_post_id":"153","fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"individual":"1","fk_job_post_id":"153","fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-25, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-25, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-27, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-27, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-27, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-27, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-10-27, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-27, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-28, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-10-28, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-29, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-29, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-29, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-29, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-29, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-10-31, 19
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-03, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-11-03, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-10, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-11-10, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2018-11-13, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-15, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-17, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-17, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-18, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-20, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2018-11-20, 19
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-20, 19
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request null
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-11-24, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-24, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-26, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-11-26, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-04, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-04, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10012"}
+Time: 2018-12-04, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10012"}
+Time: 2018-12-05, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-05, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"995"}
+Time: 2018-12-11, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-11, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-14, 19
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-15, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-19, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-19, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025","individual":"1","fk_job_post_id":"195"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025","individual":"1","fk_job_post_id":"195"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025","individual":"1","fk_job_post_id":"195"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-23, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-23, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-23, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-23, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-23, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-24, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-27, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-27, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-28, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-29, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-29, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2018-12-30, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-30, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-30, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-30, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-30, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2018-12-31, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-01, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-03, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1128"}
+Time: 2019-01-04, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-04, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-04, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-06, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-06, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-07, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-07, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-08, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-08, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-09, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-09, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-09, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-09, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-10, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-11, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-12, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-12, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-12, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-12, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-12, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-12, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10155"}
+Time: 2019-01-13, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-13, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-13, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-14, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-15, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-15, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-15, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-15, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-15, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-15, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-20, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-20, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-21, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-21, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-22, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-22, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-22, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-22, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-01-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-22, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-23, 09
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-23, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-24, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-24, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-01-26, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"941"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-28, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-01-29, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-29, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-29, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-01-31, 02
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-02, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-02, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-04, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-04, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-04, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-08, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-10, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-10, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-13, 02
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-15, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-02-15, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-17, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-17, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-20, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-20, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-20, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-20, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-21, 07
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-21, 07
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-21, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-21, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-02-21, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-02-21, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-02-24, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-24, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-25, 00
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-25, 00
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-25, 00
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-25, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-25, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-25, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-25, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-26, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-26, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-02-27, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-02-27, 19
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-02, 00
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-02, 00
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-03, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-05, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-05, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-05, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-05, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-06, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-11, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-11, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-11, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-12, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-16, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-03-17, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-17, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-17, 21
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-18, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-18, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-18, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-19, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-19, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-03-20, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-20, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-23, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-03-24, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-24, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-24, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-24, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-30, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-03-30, 06
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-04-01, 10
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-02, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-08, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-09, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-16, 12
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 07
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1047"}
+Time: 2019-04-20, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 16
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-20, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-20, 20
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-21, 23
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-22, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-22, 08
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1025"}
+Time: 2019-04-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 13
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-22, 15
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-26, 22
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"10125"}
+Time: 2019-04-28, 09
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-04-28, 09
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-01, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-01, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-03, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-03, 11
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-05, 04
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-12, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-12, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-12, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-17, 17
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-17, 18
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 01
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1024"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}
+Time: 2019-05-20, 14
+url: https://muscathome.com/get_users_job_posts_for_provider
+Request {"fk_provider_id":"1121"}

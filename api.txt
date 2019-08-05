@@ -1,0 +1,697 @@
+
+Base URL (temp.)-: http://ec2-52-205-20-98.compute-1.amazonaws.com/dams/index.php/
+
+################################  USER REGISTRATION  ################################
+
+1) SEND OTP ON MOBILE
+
+	Method -:      Post 
+	Service url -: data_model/user/mobile_auth/send_otp 
+
+	Input parameter -:	
+		mobile -> 9876543210  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "OTP Sent.",
+	  "data": {
+	    "otp": 1234
+	  },
+	  "error": []
+	}	
+
+	False case 
+	{
+	  "status": false,
+	  "message": "The mobile field is required.",
+	  "data": [],
+	  "error": {
+	    "mobile": "The mobile field is required."
+	  }
+	}
+
+*************************
+2) VERIFY DAMS USER 
+
+	Method -:      Post 
+	Service url -: data_model/user/dams_user_verification/user_verification
+
+	Input parameter -:	
+		user_tokken -> 637367  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "User verified.",
+	  "data": [],
+	  "error": []
+	}
+
+	False case 
+	{
+	  "status": false,
+	  "message": "The user_tokken field is required.",
+	  "data": [],
+	  "error": {
+	    "user_tokken": "The user_tokken field is required."
+	  }
+	}
+
+*************************
+3) REGISTER USER 
+
+	Method -:      Post 
+	Service url -: data_model/user/registration/
+
+	Input parameter -:	
+		name -> jhon 
+		email -> jhon@gmail.com 
+		mobile -> 637367  
+		is_social -> 0  // 0 for no , 1 for yes  
+		device_type -> 0 // 0 for none , 1 for android , 2 for IOS  
+		social_type -> 0 // 0 for none , 1 for facebook , 2 for gmail , 3 for linkedin  
+		social_tokken -> 637367 
+		password -> 637367 
+		device_tokken -> 637367 
+		dams_tokken -> 15425124
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Registration successful.",
+	  "data": {
+	    "id": "5",
+	    "name": "vipul",
+	    "email": "456454dd1256@gmail.comw",
+	    "password": "84b519a3c5071223573c71f4a5a35b",
+	    "mobile": "9988312003",
+	    "gender": "male",
+	    "is_social": "0",
+	    "social_type": "0",
+	    "social_tokken": "",
+	    "device_type": "1",
+	    "device_tokken": "54545",
+	    "creation_time": "1495452071"
+	  },
+	  "error": []
+	}
+
+	False case 
+	{
+	  "status": false,
+	  "message": "The name field is required.",
+	  "data": [],
+	  "error": {
+	    "name": "The name field is required.",
+	    "email": "The email field is required.",
+	    "mobile": "The mobile field is required.",
+	    "is_social": "The is_social field is required.",
+	    "device_type": "The device_type field can only have value 0 or 1 or 2",
+	    "password": "The password field is required."
+	  }
+	}
+
+*************************
+
+4) LOGIN USER 
+
+	Method -:      Post 
+	Service url -: data_model/user/registration/login_authentication
+
+	Input parameter -:	
+		email ->  456454dd1256@gmail.comw
+		password -> 637367 
+		is_social -> 0  // 0 for no , 1 for yes  
+		device_type -> 0 // 0 for none , 1 for android , 2 for IOS  
+		social_type -> 0 // 0 for none , 1 for facebook , 2 for gmail , 3 for linkedin  
+		social_tokken -> 637367 
+		device_tokken -> 637367 
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "User authentication successful.",
+	  "data": {
+	    "id": "5",
+	    "name": "vipul",
+	    "email": "456454dd1256@gmail.comw",
+	    "password": "202cb962ac59075b964b07152d234b70",
+	    "mobile": "9988312003",
+	    "gender": "male",
+	    "is_social": "0",
+	    "social_type": "0",
+	    "social_tokken": "",
+	    "device_type": "1",
+	    "device_tokken": "54545",
+	    "dams_tokken": "",
+	    "creation_time": "1495452071"
+	  },
+	  "error": []
+	}	
+
+	False case 
+	{
+	  "status": false,
+	  "message": "User authentication failed.",
+	  "data": [],
+	  "error": []
+	}
+
+
+*************************
+
+5) POST MCQ 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_mcq/add_mcq
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user  
+		question -> What is your name ?  
+		answer_one -> apple  //   
+		answer_two -> mango  //   
+		answer_three -> orange  //   
+		answer_four -> malta  //   
+		answer_five -> guava  //   
+		right_answer -> answer_one // it can be answer_two,answer_three ,answer_four , answer_five  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post added.",
+	  "data": [],
+	  "error": []
+	}	
+
+	False case 
+	{
+	  "status": false,
+	  "message": "Invalid input parameter.Please use post method.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+6) GET FAN WALL (MCQ,TEXT,VIDEO LINK)
+
+	Method -:      Post 
+	Service url -: data_model/fanwall/fan_wall/get_fan_wall_for_user
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post found.",
+	  "data": [
+	    {
+	      "id": "12",
+	      "user_id": "9",
+	      "post_type": "user_post_type_normal",
+	      "is_shared": "0",
+	      "parent_id": "0",
+	      "likes": "1",
+	      "comments": "1",
+	      "share": "0",
+	      "report_abuse": "0",
+	      "creation_time": "1496658807165",
+	      "is_liked": false,
+	      "post_data": {
+	        "id": "3",
+	        "post_id": "12",
+	        "text": "Hello team!!!!!!",
+	        "post_text_type": "text",
+	        "post_file": []
+	      },
+	      "post_owner_info": {
+	        "id": "9",
+	        "name": "pintu",
+	        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziIQ3QZhnNEr4XL1Q6q4vU7XLYHsgZnMkAAx9MOfkVV774uo9"
+	      }
+	    },
+	    {
+	      "id": "11",
+	      "user_id": "2",
+	      "post_type": "user_post_type_normal",
+	      "is_shared": "1",
+	      "parent_id": "3",
+	      "likes": "1",
+	      "comments": "0",
+	      "share": "0",
+	      "report_abuse": "0",
+	      "creation_time": "1496658703953",
+	      "is_liked": false,
+	      "post_data": {
+	        "id": "2",
+	        "post_id": "3",
+	        "text": "hello Pintu sir good morning... how are doing today",
+	        "post_text_type": "text",
+	        "post_file": []
+	      },
+	      "post_owner_info": {
+	        "id": "2",
+	        "name": "Sagar Khurana",
+	        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3hXQPnaoLZbcxQ1z5AjSjYULCqpyd1DzussVD6W72MdBgeyd"
+	      },
+	      "post_shared_of": {
+	        "id": "2",
+	        "name": "Sagar Khurana"
+	      }
+	    },
+	    {
+	      "id": "10",
+	      "user_id": "2",
+	      "post_type": "user_post_type_normal",
+	      "is_shared": "1",
+	      "parent_id": "1",
+	      "likes": "1",
+	      "comments": "0",
+	      "share": "0",
+	      "report_abuse": "0",
+	      "creation_time": "1496657992671",
+	      "is_liked": false,
+	      "post_data": {
+	        "id": "1",
+	        "post_id": "1",
+	        "text": "Hello Gud morning!!",
+	        "post_text_type": "text",
+	        "post_file": []
+	      },
+	      "post_owner_info": {
+	        "id": "2",
+	        "name": "Sagar Khurana",
+	        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3hXQPnaoLZbcxQ1z5AjSjYULCqpyd1DzussVD6W72MdBgeyd"
+	      },
+	      "post_shared_of": {
+	        "id": "9",
+	        "name": "pintu"
+	      }
+	    },
+	    {
+	      "id": "3",
+	      "user_id": "2",
+	      "post_type": "user_post_type_normal",
+	      "is_shared": "0",
+	      "parent_id": "0",
+	      "likes": "1",
+	      "comments": "0",
+	      "share": "1",
+	      "report_abuse": "0",
+	      "creation_time": "1496656631646",
+	      "is_liked": false,
+	      "post_data": {
+	        "id": "2",
+	        "post_id": "3",
+	        "text": "hello Pintu sir good morning... how are doing today",
+	        "post_text_type": "text",
+	        "post_file": []
+	      },
+	      "post_owner_info": {
+	        "id": "2",
+	        "name": "Sagar Khurana",
+	        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3hXQPnaoLZbcxQ1z5AjSjYULCqpyd1DzussVD6W72MdBgeyd"
+	      }
+	    },
+	    {
+	      "id": "1",
+	      "user_id": "9",
+	      "post_type": "user_post_type_normal",
+	      "is_shared": "0",
+	      "parent_id": "0",
+	      "likes": "1",
+	      "comments": "1",
+	      "share": "1",
+	      "report_abuse": "0",
+	      "creation_time": "1496652720956",
+	      "is_liked": false,
+	      "post_data": {
+	        "id": "1",
+	        "post_id": "1",
+	        "text": "Hello Gud morning!!",
+	        "post_text_type": "text",
+	        "post_file": []
+	      },
+	      "post_owner_info": {
+	        "id": "9",
+	        "name": "pintu",
+	        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziIQ3QZhnNEr4XL1Q6q4vU7XLYHsgZnMkAAx9MOfkVV774uo9"
+	      }
+	    }
+	  ],
+	  "error": []
+	}
+
+	False case 
+	{
+	  "status": false,
+	  "message": "No post found.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+7) LIKE POST 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_like/like_post
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user  
+		post_id -> 1  // primary id of Post  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post liked.",
+	  "data": [],
+	  "error": []
+	}
+
+	False case 
+	{
+	  "status": false,
+	  "message": "Post Already liked.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+8) DISLIKE POST 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_like/dislike_post
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user  
+		post_id -> 1  // primary id of Post  
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post disliked.",
+	  "data": [],
+	  "error": []
+	}
+
+	False case 
+	{
+	  "status": false,
+	  "message": "",
+	  "data": [],
+	  "error": []
+	}	
+
+*************************
+
+9) ADD COMMENT 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_comment/add_comment
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user  
+		post_id -> 1  // primary id of Post 
+		comment -> "send text here" 
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Comment added.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+10) EDIT COMMENT 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_comment/update_comment
+
+	Input parameter -:	
+		id-> 1 // primary key of comment 
+		user_id -> 1  // primary id of logged in user  
+		post_id -> 1  // primary id of Post 
+		comment -> "send text here" 
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Comment updated.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+11) DELETE COMMENT 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_comment/delete_comment
+
+	Input parameter -:	
+		id-> 1 // primary key of comment 
+		user_id -> 1  // primary id of logged in user  
+		post_id -> 1  // primary id of Post 
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Comment deleted.",
+	  "data": [],
+	  "error": []
+	}	
+
+*************************
+
+12) GET POST COMMENT LIST  
+
+	Method -:      Post 
+	Service url -: data_model/user/post_comment/get_post_comment
+
+	Input parameter -:	
+		post_id -> 1  // primary id of Post 
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Comment details.",
+	  "data": [
+	    {
+	      "id": "1",
+	      "post_id": "1",
+	      "user_id": "2",
+	      "comment": "Bhai text to sahi se likho",
+	      "time": "1496391315",
+	      "name": "Priyanka Shukla",
+	      "profile_picture": "http://www.mba.hec.edu/var/hec_mba/storage/images/student-life/student-profiles/adriaan-tan/325289-1-eng-GB/Adriaan-TAN_profile_image-HEC-Paris-MBA.jpg"
+	    }
+	  ],
+	  "error": []
+	}	
+	False case 
+	{
+	  "status": false,
+	  "message": "No comment found.",
+	  "data": [],
+	  "error": []
+	}		
+
+*************************
+
+13) SHARE POST  
+
+	Method -:      Post 
+	Service url -: data_model/user/post_share/share_post
+
+	Input parameter -:	
+		post_id -> 1  // primary id of Post 
+		user_id -> 1  // primary id of logged in user
+
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post Shared.",
+	  "data": [],
+	  "error": []
+	}		
+
+
+*************************
+
+14) ADD NORMAL POST (text/video_link)
+
+	Method -:      Post 
+	Service url -: data_model/user/post_text/add_post
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user
+		text -> "hello good morning " // string 
+		post_type -> "text" //  or "video" with video link 
+		video_link -> "https://www.youtube.com/watch?v=eRb3AeDwgkQ"
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post added.",
+	  "data": [],
+	  "error": []
+	}	
+
+*************************
+
+15) PEOPLE YOU MAY KNOW
+
+	Method -:      Post 
+	Service url -: data_model/fanwall/people_you_may_know/get_list
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "People found",
+	  "data": [
+	    {
+	      "id": "1",
+	      "name": "pintu",
+	      "profile_picture": "http://www.mba.hec.edu/var/hec_mba/storage/images/student-life/student-profiles/adriaan-tan/325289-1-eng-GB/Adriaan-TAN_profile_image-HEC-Paris-MBA.jpg"
+	    }
+	  ],
+	  "error": []
+	}	
+	False Case
+	{
+	  "status": false,
+	  "message": "People not found",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+16) ADD TO BOOKMARKS 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_bookmarks/add_to_bookmarks
+
+	Input parameter -:	
+		user_id -> 1  // primary id of logged in user
+		post_id -> 1  // primary id of logged in user
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Post added to bookmarks",
+	  "data": [],
+	  "error": []
+	}	
+	False Case
+	{
+	  "status": false,
+	  "message": "Post already added to bookmarks",
+	  "data": [],
+	  "error": []
+	}
+
+
+*************************
+
+17) SEND OTP FOR FORGET PASSWORD
+
+	Method -:      Post 
+	Service url -: data_model/user/Mobile_auth/send_otp_for_change_password
+
+	Input parameter -:	
+		mobile -> 9876543210
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "OTP Sent.",
+	  "data": {
+	    "otp": 1234
+	  },
+	  "error": []
+	}
+	False Case
+	{
+	  "status": false,
+	  "message": "This mobile number is not valid or registred with social login.",
+	  "data": [],
+	  "error": []
+	}
+
+*************************
+
+18) UPDATE PASSWORD WITH MOBILE OTP
+
+	Method -:      Post 
+	Service url -: data_model/user/registration/update_password_via_otp
+
+	Input parameter -:	
+		password -> P)QWE#$  
+		mobile -> 9876543210
+		otp -> 1234  
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Password updated",
+	  "data": [],
+	  "error": []
+	}	
+	False Case
+	{
+	  "status": false,
+	  "message": "Invalid otp.",
+	  "data": [],
+	  "error": []
+	}
+
+
+*************************
+
+19) SUBMIT ANSWER TO POST TYPE MCQ 
+
+	Method -:      Post 
+	Service url -: data_model/user/post_mcq/answer_post_mcq
+
+	Input parameter -:	
+		user_id -> 1  
+		mcq_id -> 1
+		answer -> "answer_one"  
+	Response -:
+	True case  
+	{
+	  "status": true,
+	  "message": "Answer saved successfully.",
+	  "data": [],
+	  "error": []
+	}	
+	False Case
+	{
+	  "status": false,
+	  "message": "You already submit your answer",
+	  "data": [],
+	  "error": []
+	}

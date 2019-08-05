@@ -1,0 +1,297 @@
+
+                          Real Estate Api DOC
+doc link -> http://ec2-34-207-7-22.compute-1.amazonaws.com/real_estate/api_doc
+
+base url :-
+Dev Server :- http://dev.appsquadz.com/real_estate_dev/index.php/api_panel/
+Ec2 Server :- http://34.207.7.22/real_estate/index.php/api_panel/
+
+Api name  -   Get Service category with sub categories.
+url       -   Service/service_category
+Request   -   N/A
+Responce  -
+              {
+                  "isSuccess": true,
+                  "message": "Service category list displayed",
+                  "Result": [
+                      {
+                          "id": "2",
+                          "name": "cat 1",
+                          "create_date": "0000-00-00 00:00:00",
+                          "modify_date": "0000-00-00 00:00:00",
+                          "sub_categories": [
+                              {
+                                  "id": "1",
+                                  "name": "sub 1",
+                                  "fk_service_cat_id": "2",
+                                  "create_date": "0000-00-00 00:00:00",
+                                  "modify_date": "0000-00-00 00:00:00"
+                              },
+                              {
+                                  "id": "2",
+                                  "name": "sub 2",
+                                  "fk_service_cat_id": "2",
+                                  "create_date": "0000-00-00 00:00:00",
+                                  "modify_date": "0000-00-00 00:00:00"
+                              }
+                          ]
+                      },
+                      {
+                          "id": "3",
+                          "name": "cat 2",
+                          "create_date": "0000-00-00 00:00:00",
+                          "modify_date": "0000-00-00 00:00:00",
+                          "sub_categories": [
+                              {
+                                  "id": "3",
+                                  "name": "sub 3",
+                                  "fk_service_cat_id": "3",
+                                  "create_date": "0000-00-00 00:00:00",
+                                  "modify_date": "0000-00-00 00:00:00"
+                              },
+                              {
+                                  "id": "4",
+                                  "name": "sub 4",
+                                  "fk_service_cat_id": "3",
+                                  "create_date": "0000-00-00 00:00:00",
+                                  "modify_date": "0000-00-00 00:00:00"
+                              }
+                          ]
+                      }
+                  ]
+              }
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Api name  -   user/agent -> sign up.
+url       -   Users/user_sign_up
+Request   -
+              login_type  - 0/1/2   (0-email, 1-fb, 2-g+)
+              user_type   - 0/1     (0-user, 1-agent)
+              name        - amit
+              email       - amit@gmail.com
+              password    - 12345678
+              mobile      - 9874563210
+            if login_type != 0 means fb/gmail
+            {   fb_id     - fb12345
+                g_id      - g12345
+            }
+            if(user_type = 0 means agent )
+            {
+              fk_service_cat_id       - 1
+              fk_service_sub_cat_id   - 1
+            }
+
+Responce  -
+            {
+              "isSuccess": true,
+              "message": "Successful sign up",
+              "Result": {
+              "id": "26",
+              "name": "amit",
+              "email": "amhllilt@gmail.com",
+              "password": "12345677",
+              "login_type": "0",
+              "fb_id": "",
+              "g_id": "",
+              "mobile": "9679639631",
+              "user_type": "1",
+              "profile_image": "",
+              "device_type": "0",
+              "device_token": "",
+              "create_date": "0000-00-00 00:00:00",
+              "modify_date": "0000-00-00 00:00:00"
+              }
+            }
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Api name  -   user/agent -> login.
+url       -   Users/user_login
+Request   -
+              login_type - 0/1/2
+              user_type  - 0/1
+            if login_type != 0 means fb/gmail
+            {    fb_id - fb12345
+                g_id - g12345
+            }else{
+              email - amit@gmail.com / mobile - 9874563210
+              password - 12345678
+            }
+
+Responce  -
+            {
+              "isSuccess": true,
+              "message": "Successful Login",
+              "Result": {
+              "id": "26",
+              "name": "amit",
+              "email": "amhllilt@gmail.com",
+              "password": "12345677",
+              "login_type": "0",
+              "fb_id": "",
+              "g_id": "",
+              "mobile": "9679639631",
+              "user_type": "1",
+              "profile_image": "",
+              "device_type": "0",
+              "device_token": "",
+              "create_date": "0000-00-00 00:00:00",
+              "modify_date": "0000-00-00 00:00:00"
+              }
+            }
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Api name  -   Get Countries list with top 5 countries.
+url       -   Country
+Request   -   N/A
+Responce  -
+{
+"isSuccess": true,
+"message": "Service category list displayed",
+"Result": {
+        "top": [
+              {
+                "id": 1,
+                "country_code": "OM",
+                "country_name": "OMAN"
+              },
+              {
+                "id": 1,
+                "country_code": "US",
+                "country_name": "United States"
+              },
+              {
+                "id": 1,
+                "country_code": "CA",
+                "country_name": "Canada"
+              },
+              {
+                "id": 1,
+                "country_code": "JP",
+                "country_name": "Japan"
+              },
+              {
+                "id": 1,
+                "country_code": "AU",
+                "country_name": "Australia"
+              }
+        ],
+        "all": [
+                  {
+                    "id": "1",
+                    "country_code": "AF",
+                    "country_name": "Afghanistan"
+                  },
+                  {
+                    "id": "2",
+                    "country_code": "AL",
+                    "country_name": "Albania"
+                  },
+                  {
+                    "id": "3",
+                    "country_code": "DZ",
+                    "country_name": "Algeria"
+                  }
+            ]
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Api name  -   Edit User
+url       -   Users/update_user
+Request   -   user_id,name,password...
+Responce  -
+{
+"isSuccess": true,
+"message": "User edited successfully",
+"Result":
+            {
+              "isSuccess": true,
+              "message": "Successful Edited",
+              "Result": {
+              "id": "26",
+              "name": "amit",
+              "email": "amhllilt@gmail.com",
+              "password": "12345677",
+              "login_type": "0",
+              "fb_id": "",
+              "g_id": "",
+              "mobile": "9679639631",
+              "user_type": "1",
+              "profile_image": "",
+              "device_type": "0",
+              "device_token": "",
+              "create_date": "0000-00-00 00:00:00",
+              "modify_date": "0000-00-00 00:00:00"
+              }
+            }
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Api name  -   Forget Password
+url       -   Users/forget_password
+Request   -   email/mobile    - (any one)
+Responce  -
+{
+"isSuccess": true,
+"message": "User got successfully",
+"Result":
+            {
+              "otp": "1234",
+              "id": "26",
+              "name": "amit",
+              "email": "amhllilt@gmail.com",
+              "password": "12345677",
+              "login_type": "0",
+              "fb_id": "",
+              "g_id": "",
+              "mobile": "9679639631",
+              "user_type": "1",
+              "profile_image": "",
+              "device_type": "0",
+              "device_token": "",
+              "create_date": "0000-00-00 00:00:00",
+              "modify_date": "0000-00-00 00:00:00"
+            }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Api name  -   Send SMS
+url       -   Users/forget_password
+Request   -   id
+Responce  -
+{
+"isSuccess": true,
+"message": "Message send successfully",
+"Result":
+            {
+              "otp": "1234",
+              "id": "26",
+              "name": "amit",
+              "email": "amhllilt@gmail.com",
+              "password": "12345677",
+              "login_type": "0",
+              "fb_id": "",
+              "g_id": "",
+              "mobile": "9679639631",
+              "user_type": "1",
+              "profile_image": "",
+              "device_type": "0",
+              "device_token": "",
+              "create_date": "0000-00-00 00:00:00",
+              "modify_date": "0000-00-00 00:00:00"
+            }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

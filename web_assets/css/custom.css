@@ -1,0 +1,185 @@
+.login-text > div > a:focus{
+	color:#004274;
+}
+.agent-category{
+	 width:100%; border:none;
+}
+.select-category .form-group{
+	margin-bottom:0px;
+}
+.select-category .btn-group .btn{
+	padding: 11px 39px; background:none !important; border:none;
+}
+.doc-upload{
+	margin:0 auto; text-align:center;
+}
+button.upload-button{
+	width:50%; margin:0 auto; /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4aa4fe+0,0c8dfa+100 */
+background: #4aa4fe; /* Old browsers */
+background: -moz-linear-gradient(top, #4aa4fe 0%, #0c8dfa 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #4aa4fe 0%,#0c8dfa 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #4aa4fe 0%,#0c8dfa 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4aa4fe', endColorstr='#0c8dfa',GradientType=0 ); /* IE6-9 */;
+color:#fff; font-family: 'Montserrat', sans-serif; font-size:14px; font-weight:400; padding:10px 0; border-radius:5px; border:none;
+}
+.upload-button i{
+	color:#fff; padding:0 12px 0 0;
+}
+.doc-upload p{
+	text-align:left; font-size:14px; padding:10px 0; font-family: 'Montserrat', sans-serif;
+}
+.property-location i{
+	color:#00aeef;
+}
+.job-description-tag li{
+	background:#a2a2a2; list-style:none; display:inline-block; font-size:13px; color:#202020; padding: 4px 9px; font-weight: 600;
+}
+.header-section-4 .header-left .navi ul li a.active{
+	color: #00aeef;
+}
+.accepted .property-title a{
+	color:#ffd10f;
+}
+.accepted .property-location i{
+	color:#ffd10f;
+}
+.completed{
+	background:#45bf55;
+}
+.completed:hover, .completed:focus, .completed:active{
+	background:#45bf55;
+}
+.completed-item .property-title a{
+	color:#45bf55
+}
+.completed-item .property-location i{
+	color:#45bf55;
+}
+.services-menu ul li{
+	list-style:none; line-height:22px; padding:0 0 20px;
+}
+.services-menu ul li a{
+	padding-left:35px;  vertical-align:middle; color:#000; font-size:15px; font-family: 'Montserrat', sans-serif; font-weight:500;
+}
+.fan-icon{
+	background:url(../images/fan-icon.png) no-repeat left top; height:24px; vertical-align:middle;
+}
+.fan-icon:hover, .services-menu a.active{
+	background-position:left bottom; color:#00aeef
+}
+.switches-icon{
+	background:url(../images/switches-icon.png) no-repeat left top; height:19px; vertical-align:middle;
+}
+.switches-icon:hover{
+	background-position:left bottom; color:#00aeef
+}
+.wiring-icon{
+	background:url(../images/wiring-icon.png) no-repeat left top; height:20px; vertical-align:middle;
+}
+.wiring-icon:hover{
+	background-position:left bottom; color:#00aeef
+}
+.lights-icon{
+	background:url(../images/lighting-icon.png) no-repeat left top; height:21px; vertical-align:middle;
+}
+.lights-icon:hover{
+	background-position:left bottom; color:#00aeef
+}
+.inverter-icon{
+	background:url(../images/inverter-icon.png) no-repeat left top; height:24px; vertical-align:middle;
+}
+.inverter-icon:hover{
+	background-position:left bottom; color:#00aeef
+}
+.others-icon{
+	background:url(../images/other-icon.png) no-repeat left top; height:21px; vertical-align:middle;
+}
+.others-icon:hover{
+	background-position:left bottom; color:#00aeef
+}
+.job-description{
+	background:#fff; padding-top:15px; padding-bottom:15px;
+}
+.job-heading h4{
+	border-bottom:1px solid #ccc; font-weight:500; font-size:16px; text-transform:uppercase;
+}
+.attach-image{
+	border-radius:5px; text-align:center; color:#00aeef; padding:15px 0; border:1px dashed #00aeef
+}
+.btn-request{
+	background:#00aeef; padding-left:55px; padding-right:55px;
+}
+.btn-request:hover{
+	background:#1c1c1c;
+}
+.services-menu{
+	min-height:643px;
+}
+.service-address{
+	font-size:15px; font-weight:500;
+}
+.service-address i{
+	padding-right:5px;
+}
+.service-content h3{
+	margin-bottom:0px; font-size:15px;
+}
+.date-time{
+	font-size:12px; font-weight:400;
+}
+.date-time ul li{
+	display:inline-block; list-style:none; padding-right:10px; color:#767676;
+}
+.job-material{
+	font-size:15px; color:#fbb838; margin:15px 0; font-weight:600; text-transform:uppercase;
+}
+.confirm-button button{
+	display:inline-block;
+}
+.rating-container .clear-rating{
+	display:none !important;
+}
+.rating-xs {
+    font-size: 16px !important;
+}
+.confirm-button button.btn{
+	padding:8px 27px;
+}
+button.agent_contact_form{
+	padding:11px 45px;
+}
+.job-post-detail{
+	
+}
+.job-post-detail .houzez-module{
+	padding:5px 0;
+}
+.user-block{
+	box-shadow:none !important; border:1px solid rgba(0,0,0,0.1); margin:0 5px; padding-left:0px !important; padding-right:0px !important;
+}
+.user-block.agents-block:hover{
+	transform:none;
+}
+.job-post-detail .auther-thumb{
+	margin-bottom:0px;
+}
+.job-post-listing{
+	margin-bottom:15px; background:#fff;
+}
+.job-confirm{
+	margin-top:40px;
+}
+.job-confirm h2{
+	border-bottom:1px solid rgba(0,0,0,0.5)
+}
+.job-confirm .profile-detail-block{
+	padding:0px;
+}
+.job-status{
+	color:#00aeef; font-style:italic; font-weight:600; float:right; font-size:16px;
+}
+.job-detail{
+	float:left;
+}
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; }

@@ -1,0 +1,2937 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: gdfgd</p>
+<p>Filename: controllers/Servent_request.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div><!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>On Demand Services, Real Estate, Rent, Sell & Buy Property in Muscat</title>
+<!--Meta tags-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="house for rent in muscat, apartments for rent, property in muscat, flats for rent in muscat, on demand services, household services in muscat, outdoor services, cleaning services">
+
+        <meta name="description" content="A sought after platform for individuals to sell, rent and buy properties and book on demand household, transport, personal care and outdoor services. Users can avail these services through their mobile apps, web apps and websites. It is a secure platform for all everyday services.">
+        <meta name="title" content="On Demand Services, Real Estate, Rent, Sell & Buy Property in Muscat">
+
+        <link rel="apple-touch-icon" sizes="144x144" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/manifest.json">
+        <link rel="mask-icon" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/safari-pinned-tab.svg">
+        <meta name="theme-color" content="#ffffff">
+
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/font-awesome.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/custom.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+
+    <body><!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>On Demand Services, Real Estate, Rent, Sell & Buy Property in Muscat</title>
+<!--Meta tags-->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="house for rent in muscat, apartments for rent, property in muscat, flats for rent in muscat, on demand services, household services in muscat, outdoor services, cleaning services">
+
+        <meta name="description" content="A sought after platform for individuals to sell, rent and buy properties and book on demand household, transport, personal care and outdoor services. Users can avail these services through their mobile apps, web apps and websites. It is a secure platform for all everyday services.">
+        <meta name="title" content="On Demand Services, Real Estate, Rent, Sell & Buy Property in Muscat">
+
+        <link rel="apple-touch-icon" sizes="144x144" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/manifest.json">
+        <link rel="mask-icon" href="http://localhost/muscathomecodefilezilla/web_assets/images/favicons/safari-pinned-tab.svg">
+        <meta name="theme-color" content="#ffffff">
+
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/font-awesome.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="http://localhost/muscathomecodefilezilla/web_assets/css/custom.css" rel="stylesheet" type="text/css" />
+
+
+</head>
+
+
+    <body><!--start header section header v1-->
+<script src="https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit&hl=en" async defer></script>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#option").click(function () {
+            alert("The paragraph is now hidden");
+            $("p").hide("slow", function () {
+
+            });
+        });
+    });
+</script>
+<style>
+    .input-group-addon{
+        border: 1px solid #ccc0;
+    }
+</style>
+<script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/bootstrap-show-password.min.js"></script>
+<script type="text/javascript">
+    $(".users_password").password('toggle');
+</script>
+<button class="btn scrolltop-btn back-top"><i class="fa fa-angle-up"></i></button>
+<div class="modal fade" id="pop-login" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <ul class="login-tabs">
+                    <li id="login_tab" class="active">Login</li>
+                    <li id="reg_tab">Register</li>
+                    <!-- <li>Agents</li> -->
+                </ul>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+
+            </div>
+            <div class="modal-body login-block">
+                <div class="tab-content"> 
+                    <div class="tab-pane fade in active">
+                        <div class="message">
+                            <!--<p class="error text-danger"><i class="fa fa-close"></i> You are not Logedin</p>
+                            <p class="success text-success"><i class="fa fa-check"></i> You are not Logedin</p> -->
+                        </div>
+                        <form id="login_users" method="post" role="form" autocomplete="off" enctype="multipart/form-data" class="form_style">
+
+
+                            <h2>Login as</h2>
+                            <ul>
+                                <li class="col-sm-4">
+                                    <input type="radio" class="sel_user" id="f-option" value="0" name="toggler" checked>
+                                    <label for="f-option">User</label>
+                                    <div class="check"></div>
+                                </li>
+                                <li class="col-sm-4">
+                                    <input type="radio"  class="sel_user"  id="s-option" value="1" name="toggler">
+                                    <label for="s-option">Agent</label>
+                                    <div class="check"></div>
+                                </li>
+                                <li class="col-sm-4">
+                                    <input type="radio"  class="sel_user"  id="a-option" value="3" name="toggler">
+                                    <label for="a-option">Employment</label>
+                                    <div class="check"></div>
+                                </li>
+                            </ul>
+                            <span id="login_user_error_validation"></span>
+                            <div class="form-group field-group">
+                                <div class="input-user input-icon">
+                                    <input value="" type="text" placeholder="Phone or Email id" id="login_users_username">
+                                </div>
+                                <div class="input-pass input-icon">
+                                    <input value="" type="password" placeholder="Password" class="users_password"  data-toggle="password" id="login_users_password" >
+                                </div>
+                            </div>
+                            <div class="forget-block clearfix">
+                                <div class="form-group pull-left">
+                                    <div class="checkbox">
+                                        <label>
+                                            <input  type="checkbox" id="checkbox_login" name="checkbox_login">
+                                            Remember me
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="form-group pull-right">
+                                    <a href="#" title="Forgot password" data-toggle="modal" data-dismiss="modal" title="forgot password" data-target="#pop-reset-pass">forgot password</a>
+                                </div>
+                            </div>
+
+                            <button type="button"  class="btn btn-primary btn-block login_users agent_contact_form" data-status="1" >Login</button>
+                        </form>
+
+                        <hr>
+                        <div id="social_login_section">
+                            <a href="https://www.facebook.com/v2.6/dialog/oauth?client_id=1663593230560085&state=a93248bf26dd06c06a966d32a80e578c&response_type=code&sdk=php-sdk-5.0.0&redirect_uri=http%3A%2F%2Flocalhost%2Fmuscathomecodefilezilla%2Findex.php%2Fweb_panel%2Ffacebook_authentication&scope=email" class="btn btn-social btn-bg-facebook btn-block" title="Facebook login"><i class="fa fa-facebook"></i> login with facebook</a>
+                            <!--<a href="#" class="btn btn-social btn-bg-linkedin btn-block"><i class="fa fa-linkedin"></i> login with linkedin</a>-->
+                            <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fmuscathome.com%2Findex.php%2Fweb_panel%2Fgoogle_authentication&client_id=543537279812-ubkd8tt5s5og4sb2451u6ibbgppqp6bd.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force" class="btn btn-social btn-bg-google-plus btn-block" title="Gmail login"><i class="fa fa-google-plus"></i> login with Google</a>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade">
+                        <h2>Register as</h2>
+                        <ul style="list-style: none;">
+                            <li class="col-sm-4" style="text-align:left; padding: 10px" >
+                                <input type="radio" class="user_sel_for_reg" value="0" id="f-option" class="option" name="selector" checked> 
+                                <label for="f-option">User</label>
+                                <div class="check1"></div>
+                            </li>
+                            <li class="col-sm-4" style="text-align:left; padding: 10px">
+                                <input type="radio" class="user_sel_for_reg" value="1" id="s-option" name="selector">
+                                <label for="s-option">Agent</label>
+                                <div class="check1"><div class="inside"></div></div>
+                            </li>
+                            <li class="col-sm-4" style="text-align:left; padding: 10px">
+                                <input type="radio" class="user_sel_for_reg" value="2" id="a-option" name="selector">
+                                <label for="a-option">Employment</label>
+                                <div class="check1"><div class="inside"></div></div>
+                            </li>
+                        </ul>
+                        <div id="form_user">
+                            <span id="reg_user_error_validation"></span>
+                            <form id="register_form"  method="post" role="form" enctype="multipart/form-data" autocomplete="off" >
+
+                                <div class="form-group field-group">
+                                    <div class="input-user input-icon">
+                                        <input type="text" placeholder="Name" maxlength="24" id="reg_user_name" >
+                                    </div>
+                                    <div class="fa-mobile input-icon">
+                                        <input type="text" placeholder="Mobile" maxlength="16" id="reg_user_phone"  autocomplete="off">
+                                    </div>
+                                    <div class="input-email input-icon">
+                                        <input type="email" placeholder="Email"  maxlength="30" id="reg_user_email" autocomplete="off">
+                                    </div>
+                                    <div class="input-pass input-icon">
+                                        <input type="password"  placeholder="Password"  maxlength="16" id="reg_user_password" class="users_password"  data-toggle="password" autocomplete="off">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="checkbox">
+                                        <label>
+                                            <input type="checkbox" id="reg_user_check" value="1" >
+                                            I agree with your <a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/terms" title="Terms & Condition" target="_blank" >Terms & Conditions</a>.
+                                        </label>
+                                    </div>
+                                </div>
+                                <div style="width:100%" id="g-recaptcha-user" data-widget-id="1" class="g-recaptcha" data-sitekey="6LdQET4UAAAAAB7nM1Zuepi2OeJPJ7nk5HsOajpy"></div>
+                                <br>
+                                <button type="button"  class="btn btn-primary btn-block registration_form agent_contact_form" data-status="1" >Register</button>
+                            </form>
+                            <hr>
+
+                            <a href="https://www.facebook.com/v2.6/dialog/oauth?client_id=1663593230560085&state=a93248bf26dd06c06a966d32a80e578c&response_type=code&sdk=php-sdk-5.0.0&redirect_uri=http%3A%2F%2Flocalhost%2Fmuscathomecodefilezilla%2Findex.php%2Fweb_panel%2Ffacebook_authentication&scope=email" class="btn btn-social btn-bg-facebook btn-block" title="Facebook login" ><i class="fa fa-facebook"></i> login with facebook</a>
+
+                            <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=https%3A%2F%2Fmuscathome.com%2Findex.php%2Fweb_panel%2Fgoogle_authentication&client_id=543537279812-ubkd8tt5s5og4sb2451u6ibbgppqp6bd.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force" class="btn btn-social btn-bg-google-plus btn-block" title="Gmail login"><i class="fa fa-google-plus"></i> login with Google</a>
+                        </div>
+                        <div id="form_agent">  
+                            <span id="reg_agent_error_validation"></span>
+                            <form id="register_agent_form" action="http://localhost/muscathomecodefilezilla/index.php/web_panel/register/register_agent/register_agent_submit" method="post" enctype="multipart/form-data" autocomplete="off">
+                                <div class="form-group field-group" style="margin-bottom:0;">
+                                    <input type="hidden" name="category" value=""  id="reg_agent_category_value">
+                                    <div class="input-user input-icon">
+                                        <input type="text" placeholder="Name" name="reg_agent_name"  maxlength="24" value=""  id="reg_agent_name" required>
+                                    </div>
+                                    <div class="fa-mobile input-icon" style="font-size: 1.5em">
+                                        <input type="text" placeholder="Mobile" name="reg_agent_mobile" value=""  maxlength="16"  id="reg_agent_mobile" required autocomplete="off">
+                                    </div>
+                                    <div class="input-email input-icon">
+                                        <input type="email" placeholder="Email" name="reg_agent_email" value=""  maxlength="30" id="reg_agent_email" required  autocomplete="off">
+                                    </div>
+
+                                    <div class="fa-lock input-icon">
+                                        <input type="password" placeholder="Password" value=""  maxlength="16" name="reg_agent_password" class="users_password"  data-toggle="password" id="reg_agent_password" required>
+                                    </div>
+
+                                </div><br>
+                                <div class="form-group login-select ">
+                                    <select class="form-control" name="ser_category" data-live-search="false" title="category" class="reg_agent_category" id="reg_agent_category" required>
+                                        <option value="0" >Select category</option>
+                                    </select>
+                                </div>
+
+                                <div class="form-group login-select">
+                                    <select class="form-control" name="ser_sub_category"  title="Sub-category" id="reg_agent_sub_category">
+                                        <option>Select sub category</option>
+                                    </select>
+                                </div>
+
+
+                                <div class="doc-upload" style="margin-top: 20px;">
+                                    <button type="button" class="upload-button" id="trigger_file"><i class="fa fa-arrow-up" aria-hidden="true"></i>Upload Document</button>
+                                    <input type="file" id="file_upload" name="files[]" style="display:none;" accept="image/x-png,image/gif,image/jpeg" multiple required >
+                                    <p class="siginup-policy-txt">By signing up, you agree to <a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/terms" title="Terms & Condition" target="_blank" >terms of use</a></p>
+                                </div>
+
+                                <!--                                <div style="width:100%" id="g-recaptcha-agent" data-widget-id="2" class="g-recaptcha" data-sitekey="6LdQET4UAAAAAB7nM1Zuepi2OeJPJ7nk5HsOajpy"></div>-->
+                                <button type="button"  class="btn btn-primary btn-block registration_agent_form register_agent" style="margin-top:30px;" >Submit</button>
+
+                            </form> 
+                        </div>
+
+
+                    </div>
+                    <div class="tab-pane fade">
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="pop-reset-pass" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <ul class="login-tabs">
+                    <li class="active">Reset Password</li>
+                </ul>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+            </div>
+            <div class="modal-body">
+                <p>Please enter your username or email address. You will receive a link to create a new password via email.</p>
+                <span id="reset_error_validate"></span>
+                <form action="" method="post" name="reset_password_form" id="reset_password_form" role="form" autocomplete="off" enctype="multipart/form-data">
+
+                    <div class="form-group">
+                        <div class="input-user input-icon">
+                            <input placeholder="Enter your username or email" id="reset_email" name="reset_email" class="form-control">
+                        </div>
+                    </div>
+                    <button type="button" data-toggle="modal" class="btn btn-primary btn-block reset_button">Get new password</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- OPT modal --->
+<div class="modal fade" id="opt_modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <ul class="login-tabs">
+                    <li class="active">OTP verification</li>
+                </ul>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+            </div>
+            <div class="modal-body">
+                <p>Please enter OTP that you have received on your registered mobile number or Please check your email.</p>
+                <span id="otp_validate"></span>
+                <form action="" method="post" id="opt_form" role="form" autocomplete="off" enctype="multipart/form-data">
+
+                    <div class="form-group">
+                        <div class="input-user input-icon">
+                            <input placeholder="Enter 6 digit OTP" id="otp" name="otp" maxlength="6" class="form-control">
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-primary btn-block" id="opt_button" >Verify OTP</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .top-menu .top-right ul li .top-login li.dropdown {
+        display: inline-block;
+    }
+    .header-section-4 .navi > ul .lang{
+        top: 25px !important;
+        width: 90px;
+    }
+    .top-menu .top-right ul li .top-login ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        float: none;
+    }
+    .top-menu .top-right ul li .top-login li {
+        float: left;
+        margin-top: 0px;
+    }
+    .top-login.subMenu span {
+        color: #fff;
+        border: 1px solid #fff;
+        padding: 3px;
+    }
+
+</style>
+
+
+
+<!--start header section header v1-->
+<header id="header-section" class="header-section-4 header-main nav-left hidden-sm hidden-xs" data-sticky="1">
+    <div class="container-fluid" style="padding: 0px 80px;"> 
+        <div class="header-left">
+            <div class="logo">
+                <a href="http://localhost/muscathomecodefilezilla/" title="Home">
+                    <img class="img-logo" src="http://localhost/muscathomecodefilezilla/web_assets/images/imgpsh_fullsize.png" title="logo">
+                    <h3 class="logo-text">Muscat Home</h3>
+                </a>
+            </div>
+            <nav class="navi main-nav" >
+                <ul>
+                    <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Properties/for_sale_properties" title="Buy">Buy</a></li>
+                    <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Properties/for_rent_properties" title="Rent">Rent</a></li>
+
+                                            <li class=""><a href="#" title="Services">Services</a>
+                            <ul class="sub-menu">
+                                                                        <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/household.png">
+                                            <a href="javascript:void(0)" title="Household">Household</a>
+                                            <ul class="sub-menu">
+                                                                                                      <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/electrician.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=MQ== " title="Electrician" >Electrician</a>
+                                                    </li>
+                                                                                                        <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/plumber.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=Mg== " title="Plumber" >Plumber</a>
+                                                    </li>
+                                                                                                        <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/air_condition.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=Mw== " title="Air Condition" >Air Condition</a>
+                                                    </li>
+                                                                                                        <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/cleaning.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=Ng== " title="Cleaning" >Cleaning</a>
+                                                    </li>
+                                                                                                </ul>
+                                        </li>
+                                                                                <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/outdoor.png">
+                                            <a href="javascript:void(0)" title="Outdoor">Outdoor</a>
+                                            <ul class="sub-menu">
+                                                                                              </ul>
+                                        </li>
+                                                                                <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/personal.png">
+                                            <a href="javascript:void(0)" title="Personal">Personal</a>
+                                            <ul class="sub-menu">
+                                                                                                      <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/trainer.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=MTU= " title="Trainer" >Trainer</a>
+                                                    </li>
+                                                                                                </ul>
+                                        </li>
+                                                                                <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/transport.png">
+                                            <a href="javascript:void(0)" title="Moving Goods">Moving Goods</a>
+                                            <ul class="sub-menu">
+                                                                                                      <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/transport.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post?ghvj=MTc= " title="Transport" >Transport</a>
+                                                    </li>
+                                                                                                </ul>
+                                        </li>
+                                                                                <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/servent.png">
+                                            <a href="javascript:void(0)" title="Employment">Employment</a>
+                                            <ul class="sub-menu">
+                                                                                                      <li><img style="float:left; margin: 10px 15px 10px;" height="24" width="24" src="http://localhost/muscathomecodefilezilla/uploads/services/icons/9671525691496.png"><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Servent_request?ghvj=MjI= " title="Maid" >Maid</a>
+                                                    </li> 
+                                                                                               </ul>
+                                        </li>
+                                                                        <!--                                <li>
+                                                                    <a href="javascript:void(0)"> Outdoor </a>
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="#">Gardener</a></li>
+                                                                        <li><a href="#">Building Maintenanec</a></li>
+                                                                        <li><a href="#">car Cleaning</a></li>
+                                                                        <li><a href="#">Vacation Rental</a></li>
+                                                                    </ul>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="javascript:void(0)"> Personal </a>
+                                                                    <ul class="sub-menu">
+                                                                        <li><a href="#">Beautician</a></li>
+                                                                        <li><a href="#">Massage</a></li>
+                                                                        <li><a href="#">Trainer</a></li>
+                                                                        <li><a href="#">Nurse</a></li>
+                                                                    </ul>
+                                                                </li>
+                                                                <li><a href="#"> Transport </a></li>-->
+                            </ul>
+                        </li> 
+                                            <li>
+                            <a href="#" data-toggle="modal" data-target="#pop-login" class="dropbtn" title="Add Property"><span> Add Property</span></a>
+
+                        </li>
+                                        <li>
+                        <a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/news" class="dropbtn" title="News">News</a>
+                    </li>
+                    <!--                        <li class=""><a href="#">Pages</a>
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <a href="#">Column 1</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="agent-list.html">All Agents</a></li>
+                                                            <li><a href="agent-detail.html">Agent Profile</a></li>
+                                                            <li><a href="agency-list.html">All Agencies</a></li>
+                                                            <li><a href="company-profile.html">Company Profile</a></li>
+                                                            <li><a href="compare-properties.html">Compare Properties</a></li>
+                                                            <li><a href="landing-page.html">Landing Page</a></li>
+                                                            <li><a href="map-full-search.html">Map Full Screen</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Column 2</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="about-us.html">About Houzez</a></li>
+                                                            <li><a href="contact-us.html">Contact us</a></li>
+                                                            <li><a href="login.html">Login Page</a></li>
+                                                            <li><a href="register.html">Register Page</a></li>
+                                                            <li><a href="forget-password.html">Forgot Password Page</a></li>
+                                                            <li><a href="typography.html">Typography</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Column 3</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="faqs.html">FAQs</a></li>
+                                                            <li><a href="simple-page.html">Simple Page</a></li>
+                                                            <li><a href="404.html">404 Page</a></li>
+                                                            <li><a href="headers.html">Houzez Headers</a></li>
+                                                            <li><a href="footer.html">Houzez Footers</a></li>
+                                                            <li><a href="widgets.html">Houzez Widgets</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Column 4</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="#">Houzez Search Bars</a></li>
+                                                            <li><a href="#">Create Listing Page</a></li>
+                                                            <li><a href="#">Select Packages Page</a></li>
+                                                            <li><a href="#">Payment Page</a></li>
+                                                            <li><a href="#">Listing Done Page</a></li>
+                                                            <li><a href="#">Blog</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#">Column 5</a>
+                                                        <ul class="sub-menu">
+                                                            <li><a href="#">Blog detail</a></li>
+                                                            <li><a href="#">My Account</a></li>
+                                                            <li><a href="#">My Properties</a></li>
+                                                            <li><a href="#">My Favourite Properties</a></li>
+                                                            <li><a href="#">My Saved Searches</a></li>
+                                                            <li><a href="#">My Invoices</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>-->
+
+                </ul>
+            </nav>
+        </div>
+        <div class="header-right login-text">
+            <nav class="navi main-nav" >
+                <ul>
+                    
+                    <ul class="sub-menu">
+                                                    <li><a class="profile-menu" href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Job_post/user_posts" title="My Posted Jobs" >My Posted Jobs</a></li>
+                                                
+                        <li><a class="profile-menu" href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Properties/favorite_properties" title="My Favorite Properties">My Favorite Properties</a></li>
+                        <li><a class="profile-menu" href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Profile/myProfile" title="My Profile">My Profile</a></li>
+                    </ul>
+
+
+                    </li>
+                    <li><a href="#" title="Logout"><a href="#" data-toggle="modal" data-target="#pop-login">Sign In / Register</a></a>
+                    </li>
+                    
+
+                </ul>
+            </nav>
+
+
+        </div>
+    </div>
+</header>
+<div class="header-mobile visible-sm visible-xs">
+    <div class="container">
+        <!--start mobile nav-->
+        <div class="mobile-nav">
+            <span class="nav-trigger"><i class="fa fa-navicon"></i></span>
+            <div class="nav-dropdown main-nav-dropdown"></div>
+        </div>
+        <!--end mobile nav-->
+        <div class="header-logo">
+            <img class="img-logo" src="http://localhost/muscathomecodefilezilla/web_assets/images/imgpsh_fullsize.png" title="logo">
+            <h3 class="logo-text">MuscatHome.com</h3>
+        </div>
+        <div class="header-user">
+            <ul class="account-action">
+                <li>
+                    <span class="user-icon"><i class="fa fa-user"></i></span>
+                    <div class="account-dropdown">
+                        <ul>
+                            <li> <a href="#" data-toggle="modal" data-target="#pop-login" title="Log in / Register" > <i class="fa fa-user"></i> Log in / Register </a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" id="lang_chng" class="dropbtn" title="Change language"><span class="user-icon">
+                            EN                        </span>
+                    </a>
+                    <div class="account-dropdown">
+                        <ul>
+                            <li> <a val="1" class="lang_sel"> English </a></li>
+                            <li> <a val="0" class="lang_sel"> Arbic </a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<style>
+    .profile-menu{
+        text-align: left important;
+    }
+    .header-section-4 .header-right a {
+        text-align: left;
+    }
+
+</style>
+
+
+
+
+    <script> //alert('Please login first');
+
+ // $(document).ready(function(){
+ //     $('#pop-login').modal('show');
+ // });
+
+
+function show_login_popup(){
+
+
+$('#pop-login').modal('show');
+
+return true;
+
+}
+
+    </script>
+<style type="text/css">
+    .fb-profile img.fb-image-lg{
+        z-index: 0;
+        width: 100%;  
+        margin-bottom: 10px;
+        height: 330px;
+        margin-top: -10px;
+    }
+
+    .fb-image-profile
+    {
+        margin: -130px 10px 20px 80px;
+        z-index: 9;
+        width: 20%; 
+    }
+
+    /***
+    Bootstrap Line Tabs by @keenthemes
+    A component of Metronic Theme - #1 Selling Bootstrap 3 Admin Theme in Themeforest: http://j.mp/metronictheme
+    Licensed under MIT
+    ***/
+
+    /* Tabs panel */
+    .tabbable-panel {
+        border:1px solid #eee;
+        padding: 10px;
+    }
+
+    /* Default mode */
+    .tabbable-line > .nav-tabs {
+        border: none;
+        margin: 0px;
+    }
+    .tabbable-line > .nav-tabs > li {
+        margin-right: 2px;
+    }
+    .tabbable-line > .nav-tabs > li > a {
+        border: 0;
+        margin-right: 0;
+        color: #737373;
+    }
+    .tabbable-line > .nav-tabs > li > a > i {
+        color: #a6a6a6;
+    }
+    .tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+        border-bottom: 4px solid #fbcdcf;
+    }
+    .tabbable-line > .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+        border: 0;
+        background: none !important;
+        color: #333333;
+    }
+    .tabbable-line > .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {
+        color: #a6a6a6;
+    }
+    .tabbable-line > .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+        margin-top: 0px;
+    }
+    .tabbable-line > .nav-tabs > li.active {
+        border-bottom: 4px solid #f3565d;
+        position: relative;
+    }
+    .tabbable-line > .nav-tabs > li.active > a {
+        border: 0 !important;
+        color: #333333;
+    }
+    .tabbable-line > .nav-tabs > li.active > a > i {
+        color: #404040;
+    }
+    .tabbable-line > .tab-content {
+        margin-top: -3px;
+        background-color: #fff;
+        border: 0;
+        border-top: 1px solid #eee;
+        padding: 18px 15px;
+    }
+    .portlet .tabbable-line > .tab-content {
+        padding-bottom: 0;
+    }
+
+    /* Below tabs mode */
+
+    .tabbable-line.tabs-below > .nav-tabs > li {
+        border-top: 4px solid transparent;
+    }
+    .tabbable-line.tabs-below > .nav-tabs > li > a {
+        margin-top: 0;
+    }
+    .tabbable-line.tabs-below > .nav-tabs > li:hover {
+        border-bottom: 0;
+        border-top: 4px solid #fbcdcf;
+    }
+    .tabbable-line.tabs-below > .nav-tabs > li.active {
+        margin-bottom: -2px;
+        border-bottom: 0;
+        border-top: 4px solid #f3565d;
+    }
+    .tabbable-line.tabs-below > .tab-content {
+        margin-top: -10px;
+        border-top: 0;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 15px;
+    }
+
+    .menu_title {
+        padding: 15px 10px;
+        border-bottom: 1px solid #eee;
+        margin: 0 5px;
+    }
+
+    .fb-profile-text h1{
+        float: left;
+    }
+    @media (max-width:768px){
+
+        .fb-profile-text>h1{
+            font-weight: 700;
+            font-size:16px;
+        }
+
+        .fb-image-profile
+        {
+            margin: -45px 10px 0px 25px;
+            z-index: 9;
+            width: 20%; 
+        }
+    }
+</style>
+<div id="section" style="min-height: 530px;">
+    <div class="container-fluid">
+        <div class="row">
+
+
+            <div class="fb-profile">
+                <img align="left" class="fb-image-lg" src="https://muscathome.com/web_assets/images/2.JPG" alt="Profile image example"/>
+                <img align="left" class="fb-image-profile thumbnail" src="http://localhost/muscathomecodefilezilla/uploads/profile_images/default.png" alt="Profile image example"/>
+                <div class="fb-profile-text">
+                    <h1>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: name</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 177</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 177<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></h1>
+
+                </div>
+            </div>
+        </div>
+    </div> <!-- /container fluid-->  
+
+    <div class="container-fluid">
+        <div class="col-sm-8">
+
+            <div data-spy="scroll" class="tabbable-panel">
+                <div class="tabbable-line">
+                    <ul class="nav nav-tabs ">
+                        <li class="active">
+                            <a href="#tab_default_1" data-toggle="tab">
+                                About </a>
+                        </li>
+                        <li>
+                            <a href="#tab_default_2" data-toggle="tab">
+                                Education& Career</a>
+                        </li>
+                        <li>
+                            <a href="#tab_default_3" data-toggle="tab">
+                                Personal Details</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="tab_default_1">
+
+                            <p>
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 208</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 208<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>                            </p>
+                            <h4>Education </h4>
+                            <p>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 211</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 211<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                            <h4>Occupation</h4>
+                            <p>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 213</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 213<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                            <h4>Video</h4>
+                            <style>
+                                body:-webkit-full-page-media {
+                                background-color: #fff !important;
+}
+                            </style>
+                            <div id="video" class="property-video detail-block target-block">
+                                <div class="video-block">
+                               
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 223</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 223<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>                                                                    </div>
+                            </div>
+
+                        </div>
+                        <div class="tab-pane" id="tab_default_2">
+                            <p>
+                                Education& Career
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="email">Highest Education:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 249</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 249<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="email">Experience</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 255</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 255<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div> months</p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <label for="email"> Curriculum Vitae (CV)</label>
+                                        <p><a href="
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 261</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 261<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>" download> Download Now</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="tab_default_3">
+                            <p>
+                                Personal Details
+                            </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="email">Name:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: name</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 275</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 275<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="email">Gender:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 280</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 280<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>Female</p>
+                                    </div>
+<!--                                    <div class="form-group">
+                                        <label for="email">Email:</label>
+                                        <p> </p>
+                                    </div>-->
+                                    <div class="form-group">
+                                        <label for="email">Nationality:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 292</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 292<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <label for="email">City:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 298</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 298<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="email">Age:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 302</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 302<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+<!--                                    <div class="form-group">
+                                        <label for="email">Phone:</label>
+                                        <p> </p>
+                                    </div>-->
+                                    <div class="form-group">
+                                        <label for="email">Sevice Category:</label>
+                                        <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: sub_cat_name</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 310</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 310<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-4">
+            <div class="panel panel-default">
+                <div class="menu_title">
+                    Quick Look
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <form method="post" name="servent_requset_form">
+                                <div class="form-group">
+                                    <label for="email">Name:</label>
+                                    <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: name</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 332</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 332<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Age:</label>
+                                    <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 336</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 336<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Gender:</label>
+                                    <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: servent_details</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 340</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 340<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>Female</p>
+                                </div>
+<!--                                <div class="form-group">
+                                    <label for="email">Email:</label>
+                                    <p> </p>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email">Phone:</label>
+                                    <p> </p>
+                                </div>-->
+                                <div class="form-group">
+                                    <label for="email">Sevice Category:</label>
+                                    <p> 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: sub_cat_name</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 356</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 356<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div></p>
+                                </div>
+                                <input type="hidden" name="fk_servent_id" value="
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: id</p>
+<p>Filename: profile/servent_details.php</p>
+<p>Line Number: 358</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\views\profile\servent_details.php<br />
+			Line: 358<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 362<br />
+			Function: include			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\third_party\MX\Loader.php<br />
+			Line: 304<br />
+			Function: _ci_load			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\application\modules\web_panel\controllers\Servent_request.php<br />
+			Line: 105<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: C:\xampp\htdocs\muscathomecodefilezilla\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>">
+                                                                <button type="button" onclick="show_login_popup();" class="btn btn-danger btn-block">Send a Request</button>
+                                                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+    </div>
+
+    </div>
+<!--Start Scripts-->
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/jquery.js"></script>
+        <script type="text/javascript"  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgNXPNQgT_h6IDgFZoln0KS33G5_7ZYg0"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/modernizr.custom.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/bootstrap.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/jquery.matchHeight-min.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/bootstrap-select.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/jquery-ui.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/isotope.pkgd.min.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/jquery.nicescroll.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/vegas.min.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/infobox.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/markerclusterer.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/custom.js"></script>
+        <script type="text/javascript" src="http://localhost/muscathomecodefilezilla/web_assets/js/responsiveco.js"></script>
+        <script type="text/javascript" src="https://use.fontawesome.com/cd08c70dae.js"></script>
+        <!--start footer section-->
+<footer class="footer-v2">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="footer-widget widget-about">
+                        <div class="widget-top">
+                            <h3 class="widget-title">About Site</h3>
+                        </div>
+                        <div class="widget-body">
+                            <p>Muscat Home is the leading platform for connecting individuals looking for a home to buy, rent or household services with top-quality, pre-screened independent service professionals. </p>
+                           <!-- <p class="read"><a href="about-us.html">Read more <i class="fa fa-caret-right"></i></a></p>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="footer-widget widget-contact">
+                        <div class="widget-top">
+                            <h3 class="widget-title">Contact Us</h3>
+                        </div>
+                        <div class="widget-body">
+                            <ul class="list-unstyled">
+<!--                                <li><i class="fa fa-location-arrow"></i>  H-35 1st Floor, Sector 63, Noida,201301</li>-->
+                                <li><i class="fa fa-phone"></i> +968-95303373</li>
+                                <li><i class="fa fa-phone"></i> +968-95031616</li>
+                                <li><i class="fa fa-envelope-o"></i> <a style="text-decoration:none;" href="mailto:info@muscathome.com" title="Mail us" target="_top">info@muscathome.com</a></li>
+                            </ul>
+                            <!--<p class="read"><a href="contact-us.html">Contact us <i class="fa fa-caret-right"></i></a></p>-->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="footer-widget widget-newsletter">
+                        <div class="widget-top">
+                            <h3 class="widget-title">Newsletter Subscribe</h3>
+                        </div>
+                        <div class="widget-body">
+                            <form id="subscriber_form" action="" method="post" onkeypress="return event.keyCode != 13;">
+                                <div class="table-list">
+                                    <div class="form-group table-cell">
+                                        <span id="subscriber_error"></span>
+                                        <div class="input-email input-icon"  style="border-radius: 4px; border:1px solid #009bd6;">
+                                            <input class="form-control" type="text" id="subscribe_email" placeholder="Enter your email">
+                                        </div>
+                                    </div>
+                                    <div class="table-cell">
+                                        <button type="button" id="subscribe_submit" class="btn btn-primary">Submit</button>
+                                    </div>
+                                </div>
+                            </form>
+<!--                            <p>Houzez is a premium WordPress theme for real estate agents.<br>Don’t forget to follow us on:</p>
+                            <ul class="social">
+                                <li>
+                                    <a href="#" class="btn-facebook"><i class="fa fa-facebook-square"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="btn-twitter"><i class="fa fa-twitter-square"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="btn-google-plus"><i class="fa fa-google-plus-square"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a>
+                                </li>
+                            </ul>-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-col">
+                        <p>MuscatHome - All rights reserved</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="footer-col">
+                        <div class="navi">
+                            <ul id="footer-menu" class="">
+                                <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/about" title="About us">About us</a></li>
+<!--                                <li><a href="">Privacy</a></li>-->
+                                <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/terms" title="Terms and Conditions">Terms and Conditions</a></li>
+                                <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Contact" title="Contact us">Contact</a></li>
+                                <li><a href="http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/faq" title="faq">Faq</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <div class="footer-col foot-social">
+                        <p>
+                            Follow us
+                            <a target="_blank" class="btn-facebook" href="https://www.facebook.com/Muscat-Home-121305488570040/" title="facebook"><i class="fa fa-facebook-square"></i></a>
+
+<!--                            <a target="_blank" class="btn-twitter" href="https://twitter.com/favethemes"><i class="fa fa-twitter-square"></i></a>-->
+
+                            <a target="_blank" class="btn-linkedin" href="https://www.linkedin.com/company/muscat-home/" title="linkedin"><i class="fa fa-linkedin-square"></i></a>
+
+<!--                            <a target="_blank" class="btn-google-plus" href="http://google.com/"><i class="fa fa-google-plus-square"></i></a>-->
+
+                            <a target="_blank" class="btn-instagram" href="https://www.instagram.com/muscat_home/" title="instagram"><i class="fa fa-instagram"></i></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<style>
+    .success-popup  {
+        transition: .3s ease all;
+        font-family: 'Roboto', sans-serif;
+    }
+
+</style>
+<!-- Modal Newletter Success Popup -->
+<div class="modal fade success-popup" id="subscriber_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="myModalLabel">Thank You !</h4>
+            </div>
+            <div class="modal-body text-center">
+                <img src="http://localhost/muscathomecodefilezilla/web_assets/images/checkAds.png" title="">
+                <p class="lead">Email successfully registered. Thank you, We will get back to you soon!</p>
+                <a href="index.php" class="rd_more btn btn-default" title="Home">Go to Home</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal Contact Success Popup -->
+<div class="modal fade success-popup" id="user_contact_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title" id="myModalLabel">Success !</h4>
+            </div>
+            <div class="modal-body text-center">
+                <img src="http://localhost/muscathomecodefilezilla/web_assets/images/checkAds.png" title="">
+                <p class="lead">Thank you, We will get back to you soon!</p>
+                <a href="index.php" class="rd_more btn btn-default" title="Home">Go to Home</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        //alert('asdf');
+        $("#reg_user_email").attr('autocomplete', 'off');
+        $("#reg_user_password").attr('autocomplete', 'off');
+
+    });
+</script>
+
+<script>
+    $(document).ready(function () {
+        //alert('gh');
+
+
+        $('.alphabets').keypress(function (e) {
+            var regex = new RegExp(/^[a-zA-Z\s]+$/);
+            var str = String.fromCharCode(!e.charCode ? e.which : e.charCode);
+            if (regex.test(str)) {
+                return true;
+            } else {
+                e.preventDefault();
+                return false;
+            }
+        });
+
+        $('#reg_user_name').keypress(function (e) {
+            var regex = new RegExp(/^[a-zA-Z\s]+$/);
+            var str = String.fromCharCode(!e.charCode ? e.which : e.charCode);
+            if (regex.test(str)) {
+                return true;
+            } else {
+                e.preventDefault();
+                return false;
+            }
+        });
+
+        $('#reg_agent_name').keypress(function (e) {
+            var regex = new RegExp(/^[a-zA-Z\s]+$/);
+            var str = String.fromCharCode(!e.charCode ? e.which : e.charCode);
+            if (regex.test(str)) {
+                return true;
+            } else {
+                e.preventDefault();
+                return false;
+            }
+        });
+        $("#mobile").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#reg_agent_mobile").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#reg_user_phone").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_user_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#contact_user_phone1").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                return false;
+            }
+        });
+        $("#contact_user_phone2").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                return false;
+            }
+        });
+        $("#contact_user_phone3").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                return false;
+            }
+        });
+        $("#property_size").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#price").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+
+        $("#job_budget").keydown(function (e) {
+            // Allow: backspace, delete, tab, escape, enter and .
+            if ($.inArray(e.keyCode, [46, 8, 9, 27, 13, 110, 190]) !== -1 ||
+                    // Allow: Ctrl+A, Command+A
+                            (e.keyCode === 65 && (e.ctrlKey === true || e.metaKey === true)) ||
+                            // Allow: home, end, left, right, down, up
+                                    (e.keyCode >= 35 && e.keyCode <= 40)) {
+                        // let it happen, don't do anything
+                        return;
+                    }
+                    // Ensure that it is a number and stop the keypress
+                    if ((e.shiftKey || (e.keyCode < 48 || e.keyCode > 57)) && (e.keyCode < 96 || e.keyCode > 105)) {
+                        e.preventDefault();
+                    }
+                });
+        $("#opt").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#deposit").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+        $("#loan_amount").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+
+        $("#property_price").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+
+        $("#final_price").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+
+        $(".number").keypress(function (e) {
+            //if the letter is not digit then display error and don't type anything
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                //$("#reg_agent_error_validation").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+
+    });
+
+
+</script>
+<script>
+    $('.sel_user').click(function () {
+        //alert('jkkghj');
+        var value = $(this).val();
+        //alert(value);
+        if (value == 1) {
+            $('#social_login_section').hide();
+        }
+        if (value == 0) {
+            $('#social_login_section').show();
+        }
+
+    });
+    $(document).ready(function () {
+        $('#form_agent').hide();
+        $('.user_sel_for_reg').click(function () {
+            //alert('jkkghj');
+            var value = $(this).val();
+            //alert(value);
+
+            if (value == 0) {
+                $('#form_user').show();
+                $('#form_agent').hide();
+                
+            }
+            if (value == 1) {
+                $('#form_agent').show();
+                $('#form_user').hide();
+                
+            }
+            if (value == 2) {
+                $('#form_agent').show();
+                $('#form_user').hide();
+            }
+
+        });
+    });
+
+</script>
+
+<script type="text/javascript">
+
+    var CaptchaCallback = function () {
+        var captchas = document.getElementsByClassName("g-recaptcha");
+        for (var i = 0; i < captchas.length; i++) {
+            grecaptcha.render(captchas[i], {'sitekey': '6LdQET4UAAAAAB7nM1Zuepi2OeJPJ7nk5HsOajpy'});
+        }
+    };
+</script>
+<script>
+    $('#trigger_file').click(function () {
+        $('#file_upload').trigger('click');
+    })
+
+
+    $('#subscribe_submit').click(function () {
+        $('#subscriber_error').text('');
+        var email = $('#subscribe_email').val();
+        //alert(email); exit;
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/ajax_subscriber",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                email: email
+            },
+            success: function (data) {
+                console.log(data);
+                if (data.status) {
+                    //alert('sdfd');
+                    //$("#subscribe_email").load(location.href + " #subscribe_email");
+                    $('#subscriber_modal').modal('show');
+                    $('#subscribe_email').val('');
+
+
+                } else {
+                    $('#subscriber_error').text(data.message);
+                    $('#subscriber_error').css({"font-size": "14px", "color": "red"});
+                }
+            }
+        });
+    })
+
+
+    $("input[name='toggler']").change(function () {
+        $('#login_user_error_validation').empty();
+    });
+
+
+    $('.login_users').click(function () {
+        var name = $('#login_users_username').val();
+        var password = $('#login_users_password').val();
+        var toggler = $("input[name='toggler']:checked").val();
+       
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/login",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                name: name,
+                password: password,
+                toggler: toggler
+            },
+            success: function (data) {
+                console.log(data);
+                
+                if (data.status == 1) {
+                    window.location.href = "http://localhost/muscathomecodefilezilla/index.php/web_panel/home";
+
+                }
+                if (data.status == 2) {
+                    window.location.href = "http://localhost/muscathomecodefilezilla/index.php/web_panel/Profile/myProfile";
+
+                }
+                else {
+                    $('#login_user_error_validation').text(data.message);
+                    $('#login_user_error_validation').css({"font-size": "14px", "color": "red"});
+                }
+            }
+        });
+    })
+    $('#login_users_password').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            //alert('Enter pressed: Submitting the form....');
+            $('.login_users').click();
+        }
+    });
+
+    $('.users_password').keypress(function (e) {
+        //alert('Enter pressed: Submitting the form....');
+        if (e.which == 13) {//Enter key pressed
+
+            $('.login_users').click();
+        }
+    });
+
+    $('#checkbox_login').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('.login_users').click();
+        }
+    });
+
+    $('#reset_email').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('.reset_button').click();
+        }
+    });
+
+    $("#reset_password_form").on("submit", function () {
+        return false;
+    });
+
+
+    $('#otp').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('#opt_button').click();
+        }
+    });
+    $("#opt_form").on("submit", function () {
+        return false;
+    });
+
+
+    $('.input-group-addon').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('.login_users').click();
+        }
+    });
+
+
+
+
+    $('.reset_button').click(function () {
+        var email = $('#reset_email').val();
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/reset_password",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                reset_email: email
+            },
+            success: function (data) {
+                //console.log(data);
+                if (data.status) {
+                    $('#reset_error_validate').text(data.message);
+                    $('#reset_error_validate').css({"font-size": "14px", "color": "green"});
+                    $('#pop-reset-pass').modal('hide');
+                    $('#opt_modal').modal('show');
+
+                } else {
+                    $('#reset_error_validate').text(data.message);
+                    $('#reset_error_validate').css({"font-size": "14px", "color": "red"});
+                }
+            }
+        });
+    })
+
+    $('#opt_button').click(function () {
+        var otp = $('#otp').val();
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Reset_password/otp_verification",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                otp: otp
+            },
+            success: function (data) {
+                //console.log(data);
+                if (data.id) {
+                    var userid = btoa(data.id);
+                    var redirect_path = "http://localhost/muscathomecodefilezilla/index.php/web_panel/Reset_password/reset_password?hjlfl=" + userid;
+                    //alert(redirect_path); exit;
+                    window.location.href = redirect_path;
+                } else {
+                    $('#otp_validate').text(data.message);
+                    $('#otp_validate').css({"font-size": "14px", "color": "red"});
+                }
+            }
+        });
+    })
+
+
+
+
+    $('.registration_form').click(function () {
+        var name = $('#reg_user_name').val();
+        var email = $('#reg_user_email').val();
+        var phone = $('#reg_user_phone').val();
+        var password = $('#reg_user_password').val();
+        var checkbox = '';
+        if ($("#reg_user_check").is(":checked")) {
+            checkbox = 1;
+        }
+        var user_response = grecaptcha.getResponse();
+        //alert(response); exit;
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/register/register_user/register_user",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                name: name,
+                email: email,
+                phone: phone,
+                password: password,
+                checkbox: checkbox,
+                user_response: user_response
+
+            },
+            success: function (data) {
+                console.log(data);
+                if (data.status) {
+                    //alert('asdfds');
+                    $('#register_form input').val('');
+                    $('#reg_user_error_validation').text(data.message);
+                    $('#reg_user_error_validation').css({"font-size": "14px", "color": "green"});
+                    window.location.href = "http://localhost/muscathomecodefilezilla/index.php/web_panel/Home";
+
+                } else {
+                    $('#reg_user_error_validation').text(data.message);
+                    $('#reg_user_error_validation').css({"font-size": "14px", "color": "red"});
+                    $('#reg_user_error_validation').fadeOut(3000);
+                }
+            }
+        });
+    })
+
+    $('#reg_user_check').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('.registration_form').click();
+        }
+    });
+
+
+    $('.register_agent').click(function () {
+        //alert('sdf')
+        var name = $('#reg_agent_name').val();
+        var email = $('#reg_agent_email').val();
+        var phone = $('#reg_agent_mobile').val();
+        var password = $('#reg_agent_password').val();
+        var category = $('#reg_agent_category').val();
+        var subcategory = $('#reg_agent_sub_category').val();
+        var upload_count = $("#file_upload").get(0).files.length;
+        var agent_response = grecaptcha.getResponse();
+        //alert(response);
+
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/register/register_agent/register_agent",
+            method: 'POST',
+            dataType: 'json',
+            data: {
+                name: name,
+                email: email,
+                phone: phone,
+                password: password,
+                category: category,
+                subcategory: subcategory,
+                upload_count: upload_count,
+                agent_response: agent_response
+                        //file: file
+            },
+
+            success: function (data) {
+                //alert(data);
+                console.log(data);
+                if (data.status) {
+                    //alert(data.status);
+                    $('#reg_agent_error_validation').text(data.message);
+                    $('#reg_agent_error_validation').css({"font-size": "14px", "color": "green"});
+                    $("#register_agent_form").submit();
+                    $('#register_agent_form input').val('');
+                    //window.location.href = "http://localhost/muscathomecodefilezilla/index.php/web_panel/Home";
+                } else {
+                    $('#reg_agent_error_validation').text(data.message);
+                    $('#reg_agent_error_validation').css({"font-size": "14px", "color": "red"});
+                    $('#reg_user_error_validation').fadeOut(3000);
+                }
+
+            }
+
+
+
+        });
+
+    })
+   
+    
+    $('.user_sel_for_reg').click(function () {
+       var selected_option = $(this).val();
+       $("#reg_agent_category_value").val(selected_option);
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Services/ajax_get_category",
+            method: 'POST',
+            //dataType: 'json',
+            data: {
+                selected_option: selected_option
+            },
+
+            success: function (response) {
+                //alert(response);                                                  
+                $("#reg_agent_category").html(response);
+                $("#reg_agent_sub_category").html("<option>Select sub category</option>");
+            }
+        });
+
+    });
+
+    $('#reg_agent_category').change(function () {
+        var category = $('#reg_agent_category option:selected').val();
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Services/ajax_get_subcategory",
+            method: 'POST',
+            //dataType: 'json',
+            data: {
+                category: category
+                
+            },
+
+            success: function (response) {
+                //alert(response);                                                  
+                $("#reg_agent_sub_category").html(response);
+
+            }
+        });
+
+    });
+
+    $('#reg_agent_sub_category').keypress(function (e) {
+        if (e.which == 13) {//Enter key pressed
+            $('.register_agent').click();
+        }
+    });
+
+
+
+    $('.lang_sel').click(function () {
+        var lang = $(this).attr('val');
+        jQuery.ajax({
+            url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Home/change_language",
+            method: 'POST',
+            data: {
+                lang: lang
+            },
+
+            success: function (data) {
+                if (data) {
+                    location.reload();
+                }
+            }
+        });
+    });
+
+
+
+
+
+
+</script> 
+
+<script>
+    $(".addfav").click(function () {
+        var login_id = "";
+        if (login_id) {
+            var property_id = $(this).data('id');
+            //alert(property_id);
+            $.ajax({
+                url: "http://localhost/muscathomecodefilezilla/index.php/web_panel/Properties/fav_to_property_ajax",
+                method: 'POST',
+                data: {
+                    is_fav: $(this).attr('is_fav'),
+                    fk_user_id: login_id,
+                    fk_property_id: property_id
+                },
+                success: function (data) {
+                    location.reload();
+                }
+            });
+
+            $(this).toggleClass('fa-heart-o fa-heart');
+            //alert(login_id);
+
+        } else {
+            $('#pop-login').modal('show');
+        }
+
+    });
+</script>
+<script>
+//
+//    $(".register_agent").click(function(){
+//        var $fileUpload = $("#file_upload");
+//        if (parseInt($fileUpload.get(0).files.length)>5){
+//         alert("You can upload a maximum of 5 files");
+//         return false;
+//        }
+//    });    
+
+</script>
+
+
+<!--<script>
+    $(document).ready(function () {
+        $('.register_agent').click(function () {
+            var name = $("#reg_agent_name").val();
+            var email = $("#reg_agent_email").val();
+            var mobile = $("#reg_agent_mobile").val();
+            var passord = $("#reg_agent_password").val();
+            var cat = $("#reg_agent_category").val();
+            var subCat = $("#reg_agent_sub_category").val();
+            if (name == "") { //alert('df');
+                $("#reg_agent_name").focus();
+                $("#reg_agent_name").css("border", "1px solid red")
+                
+            }else if(email == ""){
+                 $("#reg_agent_email").focus();
+                 $("#reg_agent_email").css("border", "1px solid red");
+                 
+            } 
+            else if(mobile == ""){
+                 $("#reg_agent_mobile").focus();
+                 $("#reg_agent_mobile").css("border", "1px solid red");
+            } else if(passord == ""){
+                 $("#reg_agent_password").focus();
+                 $("#reg_agent_password").css("border", "1px solid red");
+            } 
+            else{
+                $("#register_agent_form").submit();
+            }
+            //alert('submit');
+            //$("#register_agent_form").submit();
+
+        });
+    });
+</script>
+
+<script>
+    $("#reg_agent_category").change(function () {
+        var category = $("#reg_agent_category").val();
+        if (category <= "1") { alert('category');
+                $("#reg_agent_name").focus();
+                $("#reg_agent_name").css("border", "1px solid red")
+                
+            }
+        
+    });
+</script>-->
+
+<style>
+    .login-select{   
+        margin-bottom: 0; 
+        border-top: none !important;
+    }
+    .siginup-policy-txt{
+        font-size: 13px;
+        margin-top: 15px;
+    }
+    #pop-login{z-index: 999999999;}
+    .scrolltop-btn{
+        border: none;
+        border-radius: 50%!important;
+    }
+
+</style><!--end footer section-->
+
+
+
+
